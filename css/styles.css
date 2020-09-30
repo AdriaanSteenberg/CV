@@ -5,6 +5,7 @@ body {
   background-color: whitesmoke;
 }
 h1 {
+  font-size: 90px;
   margin-top: 0;
   font-family: "Sacramento", cursive;
 
@@ -18,7 +19,7 @@ h3 {
   font-family: "Montserrat", sans-serif;
 }
 .top-container {
-  background-color: silver;
+  background-color: #e4f9f5;
   position: relative;
   padding-top: 100px;
 }
@@ -33,7 +34,7 @@ h3 {
 }
 .top-cloud {
   position: absolute;
-  right: 150px;
+  right: 50px;
   top: 50px;
 }
 .bottom-cloud {
@@ -42,5 +43,7 @@ h3 {
   bottom: 300px;
 }
 img {
-  height: 150px;
+  height: 70px;
+}
+.skill-row {
 }
